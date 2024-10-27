@@ -1,1 +1,1 @@
-# Zomato-Backend-API-Powering-Restaturant-Food-Delivery-Services
+# Zomato-Backend-API-Powering-Restataurant-Food-Delivery-Services
